@@ -33,7 +33,7 @@ const Cardmui = (props: mui) => {
         <Typography
           sx={{
             width: "283px",
-            height: "15px",
+            height: "14px",
             borderRadius: "0px 0px 8px 8px",
             background: " #F1F6F4",
             border: "1px solid #E1ECFC",
