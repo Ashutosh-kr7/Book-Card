@@ -16,7 +16,7 @@ import book7 from "./assets/book7.png";
 // @ts-ignore: Unreachable code error
 import book8 from "./assets/book8.png";
 // @ts-ignore: Unreachable code error
-import book9 from ".assets/book9.png";
+import book9 from "./assets/book9.png";
 
 // type objectArray = Array<Object>;
 
